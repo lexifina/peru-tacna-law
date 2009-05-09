@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 017-2009-CR/GOB.REG.TACNA
+EL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL DE TACNA
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Tacna, con fecha cuatro de mayo del año dos mil nueve, en sesión extraordinaria, aprobó la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el artículo 191 de la Constitución Política del Estado, señala que: “Los Gobiernos Regionales tienen autonomía política, y administrativa en los asuntos de su competencia”;
+Que, el literal a) del artículo 56 de la Ley 27867 – Ley Orgánica de Gobiernos Regionales, establece como una de las funciones de los Gobiernos Regionales en materia de transportes: “Formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar los planes y políticas en materia de transportes de la Región, de conformidad con las políticas nacionales y los planes sectoriales”;
+Que, el artículo 1 del Decreto Supremo Nro.023-2008-MTC, el cual Modifica el DD.SS. Nro.010-96-MTC y 024-2001-MTC referentes al Consejo Nacional de Seguridad Vial, establece: “Artículo 3.- Los Gobiernos Regionales, en el marco de sus competencias, constituirán Consejos Regionales de Seguridad Vial encargados de elaborar los Planes Regionales de Seguridad Vial en armonía con el Plan Nacional de Seguridad Vial y ejecutar los mismos en sus jurisdicciones, en el marco de la política nacional diseñada por el Consejo Nacional de Seguridad Vial”;
+Que, mediante Decreto Supremo Nro.023-2008-MTC, el cual Modifica el DD.SS. Nro.010-96-MTC y 024-2001-MTC referentes al Consejo Nacional de Seguridad Vial, se dispone la creación de la Secretaría Técnica del Consejo Nacional de Seguridad Vial, así también los recursos que se utilizarán para la implementación y funcionamiento, ejecución de los planes, programas, campañas y demás actividades de seguridad vial de los Consejos Regionales de Seguridad Vial;
+Que, mediante el Dictamen Nro.001-2009-CR-COPPAT emitido por la Comisión Ordinaria de Planeamiento Presupuesto y Acondicionamiento Territorial, se aprueba la propuesta normativa “Disponer la Creación del Consejo Regional de Seguridad Vial de la Región Tacna”, asimismo obran el Informe Nro.086-2009-SGPLAT-GRPPAT/GOB. REG.TACNA de la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial y el Informe 229-2009-ORAJ/GG.R-G.R.TACNA de la Oficina Regional de Asesoría Jurídica, todos los documentos opinan y recomiendan la aprobación de la propuesta normativa;
+Que, el Pleno del Consejo Regional, en mérito a sus atribuciones, y por las consideraciones expuestas, debatido y conforme a los artículos 15 literal a), 36 y 37 literal a) y 38 de la Ley 27867 - Ley Orgánica de Gobiernos Regionales y el Reglamento Interno del Consejo Regional de Tacna, en Sesión Extraordinaria de la fecha, ha aprobado la siguiente;
+ORDENANZA REGIONAL:
