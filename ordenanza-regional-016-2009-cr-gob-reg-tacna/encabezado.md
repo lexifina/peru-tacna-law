@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 016-2009-CR/GOB.REG.TACNA
+EL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL DE TACNA
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Tacna, con fecha veintisiete de abril del año dos mil nueve, en sesión ordinaria, aprobó la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el artículo 191 de la Constitución Política del Estado, señala que: “Los Gobiernos Regionales tienen autonomía política, y administrativa en los asuntos de su competencia”;
+Que, el artículo 66 de la Constitución Política del Estado, establece: “Los recursos naturales, renovables y no renovables, son patrimonio de la Nación. El Estado es soberano en su aprovechamiento”, asimismo el artículo 68 de la misma Carta Magna señala: “El Estado está obligado a promover la conservación de la diversidad biológica y de las áreas naturales protegidas”;
+Que, el artículo 8 numeral 8) de la Ley 27867 – Ley Orgánica de Gobiernos Regionales establece como uno de los principios rectores de las políticas y la gestión regional: “Sostenibilidad.- La gestión regional se caracteriza por la búsqueda del equilibrio intergeneracional en el uso racional de los recursos naturales para lograr los objetivos de desarrollo, la defensa del medio ambiente y la protección de la biodiversidad”; asimismo el artículo 53 literal a) de la misma norma legal, señala: “Formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar los planes y políticas en materia ambiental y de ordenamiento territorial, (…)”;
+Que, el Gobierno Regional de Tacna, clausuró el “Primer Censo Regional del Suri (Pterocnemia Pennata) 2008”, emitiendo la conclusión y recomendación por el cual el Gobierno Regional asume el compromiso de defensa del patrimonio natural e implementar mecanismos adecuados y necesarios para la conservación del Suri (Pterocnemia Pennata), proponiendo que se le reconozca como “ave regional”, con el fin de protegerla y evitar su extinción;
+Que, mediante el Dictamen Nro.002-2009-CR-CORRNNyGMA emitido por la Comisión Ordinaria de Recursos Naturales y Gestión del Medio Ambiente, se aprueba la propuesta normativa “Declarar al Suri (Pterocnemia Pennata) como ave representativa de la Región Tacna”, asimismo obran el Informe Nro.190-2009-ORAJ/G.R.TACNA de la Oficina Regional de Asesoría Jurídica y el Informe Nro. 010-2009-GRRNyGMA/GOB. REG.TACNA de la Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente, todos los documentos opinan y recomiendan la aprobación de la propuesta normativa;
+Que, el Pleno del Consejo Regional, en mérito a sus atribuciones, y por las consideraciones expuestas, debatido y conforme a los artículos 15 literal a), 36 y 37 literal a) y 38 de la Ley 27867 - Ley Orgánica de Gobiernos Regionales y el Reglamento Interno del Consejo Regional de Tacna, en Sesión Ordinaria de la fecha, ha aprobado la siguiente;
+ORDENANZA REGIONAL:
