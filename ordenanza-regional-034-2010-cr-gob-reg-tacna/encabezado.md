@@ -1,0 +1,17 @@
+ORDENANZA REGIONAL
+Nº 034-2010-CR/GOB.REG.TACNA
+EL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL DE TACNA
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Tacna, con fecha veintiocho de diciembre del año dos mil diez, en Sesión Extraordinaria, aprobó la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el artículo 191 de la Constitución Política del Estado, señala que: “Los Gobiernos Regionales tienen autonomía política y administrativa en los asuntos de su competencia”;
+Que, mediante Decreto Supremo Nº 043-2004-PCM se aprueban los Lineamientos para la Elaboración y Aprobación del Cuadro para Asignación de Personal – CAP, de las Entidades de la Administración Pública;
+Que, el artículo 11 del Decreto Supremo Nº 043-2004-PCM, establece: “De los criterios para la elaboración del CAP.-Para la elaboración del CAP las entidades deberán seguir los criterios y disposiciones que se detallan a continuación: a) Se formula a partir de la estructura orgánica debidamente aprobada por el ROF de la Entidad; (…); c) Se permite incluir cargos previstos (no cubiertos) con un límite del 10% del total de cargos cubiertos contenidos en el CAP; d) Los cargos correspondientes a los órganos de asesoramiento y de apoyo no deben exceder del veinte 20% del total de cargos contenidos en el CAP; e) Deberá consignar los cargos de confianza de conformidad con las disposiciones legales vigentes;
+Que, el Archivo Regional de Tacna es un órgano de línea desconcentrado, con dependencia presupuestal, administrativa y funcional de la Gerencia Regional de Desarrollo Social del Gobierno Regional de Tacna, que depende técnica y normativamente del Archivo General de la Nación; asimismo, conduce las actividades archivísticas del Sistema Nacional de Archivos en el ámbito Regional de Tacna;
+Que, mediante Ordenanza Regional Nº 019-2010-CR/GOB.REG.TACNA se aprueba el Reglamento de Organización y Funciones (ROF) del Archivo Regional de Tacna;
+Que, mediante Resolución Ejecutiva Regional Nº 227-2004-GR.TACNA de fecha 04.Junio.2004 se aprueba el Cuadro para Asignación de Personal (CAP) del Archivo Regional de Tacna, vigente a la fecha;
+Que, con Oficio Nº 464-2010-GGR-PR/GOB.REG. TACNA de fecha 29 de Noviembre del año 2010, el Señor Presidente Regional Econ. Hugo Ordoñez Salazar solicita al Consejo Regional que apruebe mediante Ordenanza Regional, el Cuadro para Asignación de Personal (CAP) del Archivo Regional de Tacna, para lo cual adjunta el Oficio Nº 081-2010-GGR/GOB.REG.TACNA de la Gerencia General Regional, Informe Nº 1138-2010-ORAJ/GOB.REG.TACNA de la Oficina Regional de Asesoría Jurídica, Informe Nº 383-2010-SGDO-GRPPAT/ GOB.REG.TACNA de la Gerencia de Planeamiento, Presupuesto y Acondicionamiento Territorial, Oficio Nº 414-2010-D-ARTAC/GOB.REG.TACNA de la Dirección del Archivo Regional Tacna; señalan que resulta viable legal y técnicamente la aprobación de la propuesta de norma regional;
+Que, la Comisión Ordinaria de Planeamiento, Presupuesto y Acondicionamiento Territorial del Consejo Regional, luego analizar y debatir el tema, emite el Dictamen Nº 017-2010-CR-COPPAT, el cual aprueba por unanimidad la propuesta inicial presentada;
+Que, el Pleno del Consejo Regional, en mérito a sus atribuciones, y por las consideraciones expuestas, debatido y conforme a los artículos 15 literal a), 36 y 37 literal a) y 38 de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales y el Reglamento Interno del Consejo Regional de Tacna, en Sesión Extraordinaria de la fecha, ha aprobado la siguiente;
+ORDENANZA REGIONAL
