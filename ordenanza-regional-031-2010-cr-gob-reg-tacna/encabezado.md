@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 031-2010-CR/GOB.REG.TACNA
+EL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL DE TACNA
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Tacna, con fecha veintiocho de diciembre del año dos mil diez, en Sesión Extraordinaria, aprobó la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el artículo 191 de la Constitución Política del Estado, señala que: “Los Gobiernos Regionales tienen autonomía política y administrativa en los asuntos de su competencia”;
+Que, el Decreto Supremo Nº 043-2006-PCM, aprueba los lineamientos para la formulación, aprobación del Reglamento de Organización y Funciones de las entidades de la Administración Pública, en todos sus niveles de gobierno;
+Que, el Reglamento de Organización y Funciones (ROF) es un documento que constituye una de las herramientas básicas de las organizaciones públicas, ya que establece la naturaleza, fija la finalidad, y determina las funciones generales y específicas de los órganos y las unidades orgánicas, determinándose claramente sus competencias;
+Que, mediante Resolución Ejecutiva Regional Nº 025-2007-GR.TACNA de fecha 31.Diciembre.2007 se aprueba el Reglamento de Organización y Funciones (ROF) de la Dirección Regional Sectorial de Transportes y Comunicaciones de Tacna, vigente a la fecha; siendo necesario su adecuación según lo dispuesto por el Decreto Supremo Nº 043-2006-PCM;
+Que, el Reglamento de Organización y Funciones (ROF) propuesto, consta de cinco Títulos, seis Capítulos, treinta y seis Artículos, tres Disposiciones Complementarias y/o Finales y el Organigrama Estructural; ya que, dicha actualización del documento de gestión obedece a la incorporación de funciones y atribuciones en algunas unidades orgánicas, así como modificaciones a las mismas, con la finalidad de que se adecuen a las facultades transferidas por el Ministerio de Transportes y Comunicaciones al Gobierno Regional de Tacna;
+Que, con Oficio Nº 485-2010-GGR-PR/GOB.REG. TACNA de fecha 16.Diciembre.2010, el señor Presidente Regional Econ. Hugo Ordoñez Salazar solicita al Consejo Regional que apruebe mediante Ordenanza Regional, el Reglamento de Organización y Funciones (ROF) de la Dirección Regional Sectorial de Transportes y Comunicaciones de Tacna, para lo cual adjunta el Informe Nº 1259-2010-ORAJ/GOB.REG.TACNA de la Oficina Regional de Asesoría Jurídica, Informe Nº 415-2010-SGDO-GRPPAT/GOB.REG.TACNA de la Gerencia de Planeamiento, Presupuesto y Acondicionamiento Territorial y el Oficio Nº 1007-2010-DRTYC.T/G.R.TACNA y el Informe Técnico Sustentatorio, ambos de la Dirección Regional Sectorial de Transportes y Comunicaciones de Tacna; todos los documentos antes mencionados, sustentan y recomiendan la aprobación de la propuesta normativa;
+Que, el Pleno del Consejo Regional, en mérito a sus atribuciones, y por las consideraciones expuestas, debatido y conforme a los artículos 15 literal a), 36 y 37 literal a) y 38 de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales y el Reglamento Interno del Consejo Regional de Tacna, en Sesión Extraordinaria de la fecha, ha aprobado la siguiente;
+ORDENANZA REGIONAL
