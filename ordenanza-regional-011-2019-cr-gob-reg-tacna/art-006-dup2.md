@@ -1,0 +1,1 @@
+Artículo Sexto.- DISPENSAR la presente Ordenanza Regional del trámite de lectura y aprobación del acta respectiva.
