@@ -305,6 +305,46 @@
     "ordenanza-regional-040-2014-cr-gob-reg-tacna"
    ],
    "sha256": "ab7cc33ff4e34ccf3091133af93663bf9bd43f6bf0e3924db9b2189fdd306912"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-001-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-003-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-004-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-006-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-007-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-008-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-009-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-014-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-014-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-016-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-016-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-017-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-017-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-018-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-018-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-019-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-019-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-020-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-022-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-023-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-023-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-024-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-025-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-025-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-026-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-026-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-027-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-028-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-030-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-031-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-031-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-032-2009-cr-gob-reg-tacna",
+    "ordenanza-regional-032-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-034-2010-cr-gob-reg-tacna",
+    "ordenanza-regional-036-2009-cr-gob-reg-tacna"
+   ],
+   "sha256": "d68f8536ce36ae4f8d20ad0d5d539edfccac42e1e80463560ac28b384e63610d"
   }
  },
  "schema": 1

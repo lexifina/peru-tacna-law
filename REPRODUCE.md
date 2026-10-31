@@ -266,20 +266,55 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-004-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 004-2011-CR/GOB.REG.TACNA: Aprueban Cronograma de Ejecución de Actividades Propuestas para el Proceso Participativo Presupuestal 2012 del Gobierno Regional Tacna y Reglamentos de identificación y acreditación de agentes participantes y de conformación de equipo técnico | 1 | 2011-08-01 to 2011-08-01 |
 | `ordenanza-regional-002-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 002-2011-CR/GOB.REG.TACNA: Declaran en proceso de reestructuración administrativa y presupuestal la sede del Gobierno Regional y sus Unidades Ejecutoras | 1 | 2011-07-30 to 2011-07-30 |
 | `ordenanza-regional-001-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2011-CR/GOB.REG.TACNA: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Sectorial de Salud de Tacna | 1 | 2011-03-10 to 2011-03-10 |
+| `ordenanza-regional-032-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 032-2010-CR/GOB.REG.TACNA: Aprueban el Texto Único de Procedimientos Administrativos del Archivo Regional de Tacna | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-027-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 027-2010-CR/GOB.REG.TACNA: Crean el Consejo Regional de la Juventud de Tacna - COREJU TACNA | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-034-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 034-2010-CR/GOB.REG.TACNA: Aprueban Cuadro para Asignación de Personal del Archivo Regional de Tacna | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-030-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 030-2010-CR/GOB.REG.TACNA: Declaran el año 2011 en el departamento de Tacna como el "Año del Bicentenario del Grito de Libertad dado por Don Francisco Antonio de Zela y Arizaga en Tacna" | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-031-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 031-2010-CR/GOB.REG.TACNA: Aprueban el Reglamento de Organización y Funciones de la Dirección Regional Sectorial de Transportes y Comunicaciones de Tacna | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-025-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 025-2010-CR/GOB.REG.TACNA.: Disponen implementar una política regional de control sobre el internamiento y comercialización de productos transgénicos | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-026-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 026-2010-CR/GOB.REG.TACNA: Crean Grupo Técnico Regional de Cambio Climático en la Región Tacna | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-023-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 023-2010-CR/GOB.REG.TACNA: Aprueban Cuadro para Asignación de Personal de la Aldea Infantil "San Pedro" de Tacna | 1 | 2010-12-16 to 2010-12-16 |
+| `ordenanza-regional-022-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 022-2010-CR/GOB.REG.TACNA: Declaran al mes de abril de cada año como mes del Derecho al Nombre y a la Identidad en la Región Tacna | 1 | 2010-12-02 to 2010-12-02 |
+| `ordenanza-regional-016-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 016-2010-CR/GOB.REG.TACNA: Declaran de utilidad necesaria la Guía de aplicación de los Derechos de No Discriminación por Orientación Sexual y por Identidad de Género en la Región Tacna | 1 | 2010-11-13 to 2010-11-13 |
+| `ordenanza-regional-019-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 019-2010-CR/GOB.REG.TACNA: Aprueban Reglamento de Organización y Funciones del Archivo Regional de Tacna | 1 | 2010-11-11 to 2010-11-11 |
+| `ordenanza-regional-018-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 018-2010-CR/GOB.REG.TACNA: Aprueban Cuadros para Asignación de Personal de la Dirección Regional Sectorial de Salud Tacna, de la Dirección de RED de Salud de Tacna y del Hospital Hipólito Unánue de Tacna | 1 | 2010-11-11 to 2010-11-11 |
+| `ordenanza-regional-017-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 017-2010-CR/GOB.REG.TACNA: Modifican el TUPA de la Zona Franca y Zona Comercial de Tacna   - ZOFRATACNA | 1 | 2010-11-11 to 2010-11-11 |
+| `ordenanza-regional-014-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 014-2010-CR/GOB.REG.TACNA: Declaran de interés público regional el funcionamiento del Laboratorio de Salud Ambiental del Gobierno Regional | 1 | 2010-10-10 to 2010-10-10 |
+| `ordenanza-regional-009-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 009-2010-CR/GOB.REG.TACNA: Declaran de interés público regional la evacuación de las aguas al ambiente provenientes del uso de la actividad minera | 1 | 2010-10-10 to 2010-10-10 |
+| `ordenanza-regional-007-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 007-2010-CR/GOB.REG.TACNA: Declaran de interés y prioridad regional la utilización del lenguaje sensible al género o denominado también lenguaje inclusivo en el ámbito de la Región Tacna | 1 | 2010-10-01 to 2010-10-01 |
+| `ordenanza-regional-008-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 008-2010-CR/GOB.REG.TACNA: Aprueban adecuación administrativa regional de las funciones y transferencia de recursos sobre la micro y pequeña empresa enel ámbito de la Región Tacna | 1 | 2010-10-01 to 2010-10-01 |
+| `ordenanza-regional-006-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2010-CR/GOB.REG.TACNA: Aprueban Cronograma de Ejecución de Actividades Propuestas para el Proceso Participativo Presupuestal  2011 del Gobierno Regional y el Reglamento de Identificación y Acreditación de los Agentes Participantes | 1 | 2010-05-08 to 2010-05-08 |
+| `ordenanza-regional-004-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 004-2010-CR/GOB.REG.TACNA: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Sectorial de Energía y Minas de Tacna | 1 | 2010-04-23 to 2010-04-23 |
+| `ordenanza-regional-003-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 003-2010-CR/GOB.REG.TACNA: Declaran de interés regional las relaciones comunitarias con los centros poblados de las zonas rurales y altoandinas de la Región Tacna | 1 | 2010-03-11 to 2010-03-11 |
+| `ordenanza-regional-001-2010-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2010-CR/GOB.REG.TACNA: Declaran de interés regional el fortalecimiento de capacidades en gestión de pasivos ambientales mineros en la Región Tacna | 1 | 2010-02-13 to 2010-02-13 |
+| `ordenanza-regional-036-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 036-2009-CR/GOB.REG.TACNA: Modifican la Ordenanza N° 028-2009-CR/GOB.REG.TACNA | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-032-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 032-2009-CR/GOB.REG.TACNA: Disponen ejecución de estudios para la creación del Programa de Asistencia Integral para Personas en Situación de Calle | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-031-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 031-2009-CR/GOB.REG.TACNA: Declaran de prioridad e interés regional la lactancia materna y aprueban política regional | 1 | 2009-12-23 to 2009-12-23 |
+| `ordenanza-regional-028-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 028-2009-CR/GOB.REG.TACNA: Declaran de interés y patrimonio regional diversas especies de flora regional y priorizan ejecución del proyecto "Desarrollo de Capacidades para la Conservación de la Flora y Fauna Amenazadas en la Región Tacna" | 1 | 2009-10-23 to 2009-10-23 |
+| `ordenanza-regional-026-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 026-2009-CR/GOB.REG.TACNA: Aprueban TUPA de la Dirección Regional Sectorial de Educación de Tacna | 1 | 2009-10-01 to 2009-10-01 |
+| `ordenanza-regional-024-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 024-2009-CR/GOB.REG.TACNA: Aprueban el TUPA de la Dirección Regional Sectorial de Trabajo y Promoción del Empleo de Tacna | 1 | 2009-09-17 to 2009-09-17 |
+| `ordenanza-regional-023-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 023-2009-CR/GOB.REG.TACNA: Disponen la obligatoriedad de incluir en proyectos turísticos la declaratoria de puesta en valor los recursos turísticos en la Región | 1 | 2009-09-17 to 2009-09-17 |
+| `ordenanza-regional-025-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 025-2009-CR/GOB.REG.TACNA: Declaran de interés regional el saneamiento físico legal de terrenos eriazos de propiedad del Gobierno Regional | 1 | 2009-09-16 to 2009-09-16 |
+| `ordenanza-regional-020-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 020-2009-CR/GOB.REG.TACNA: Modifican procedimientos 11 y 12 del TUPA del Comité de Administración de ZOFRATACNA | 1 | 2009-07-03 to 2009-07-03 |
+| `ordenanza-regional-019-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 019-2009-CR/GOB.REG.TACNA: Disponen la promoción de la sustitución progresiva de los sistemas de riego tradicionales por sistemas de riego tecnificado en la Región Tacna | 1 | 2009-06-19 to 2009-06-19 |
+| `ordenanza-regional-018-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 018-2009-CR/GOB.REG.TACNA: Aprueban Cronograma de Ejecución de Actividades Propuestas 2009 para el Procesos Participativo Presupuestal 2010 y reglamentos de identificación y acreditación de agentes participantes así como de conformación de equipo técnico | 1 | 2009-05-16 to 2009-05-16 |
+| `ordenanza-regional-017-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 017-2009-CR/GOB.REG.TACNA: Disponen la creación del Consejo Regional de Seguridad Vial de la Región Tacna | 1 | 2009-05-09 to 2009-05-09 |
+| `ordenanza-regional-016-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 016-2009-CR/GOB.REG.TACNA: Declaran al Suri como ave representativa de la Región Tacna | 1 | 2009-05-09 to 2009-05-09 |
+| `ordenanza-regional-014-2009-cr-gob-reg-tacna` | Ordenanza Regional N° 014-2009-CR/GOB.REG.TACNA: Crean el Consejo Regional de Trabajo y Promoción del Empleo de Tacna - CRTPE | 1 | 2009-05-01 to 2009-05-01 |
 
-The build made 251 commits:
+The build made 286 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 251 | first version of an act |
+| 286 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 251 laws in the record.
-- 502 tags.
+- 286 laws in the record.
+- 572 tags.
 
 ## Dates
 
@@ -291,7 +326,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `32381fc28cf0b5c2842bc8698a177f0c2300f3486359f7957152868d32a4ad40` (3380639 bytes).
+- Corpus: sha256 `79a45ef89ac78ca7a74d9fd3169a67e2928f535c9fb30af59a92afec6591d015` (3647611 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
