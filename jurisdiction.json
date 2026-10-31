@@ -1,0 +1,11 @@
+{
+  "path": "pe-tac",
+  "code": "PE-TAC",
+  "name": "Tacna",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-tacna-law",
+  "build": "built: 185 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
