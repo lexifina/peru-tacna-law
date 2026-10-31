@@ -221,20 +221,65 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-001-2018-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2018-CR/GOB.REG.TACNA: Modifican la Ordenanza Regional N° 009-2014-CR/GOB.REG.TACNA, mediante la cual se creó el Consejo Regional de Productos Orgánicos de la Región de Tacna - COREPO TACNA | 1 | 2018-12-10 to 2018-12-10 |
 | `ordenanza-regional-005-2017-cr-gob-reg-tacna` | Ordenanza Regional N° 005-2017-CR/GOB.REG.TACNA: Declaran de interés y de necesidad regional la creación del Parque Industrial Tecno - Ecologíco en la Región Tacna | 1 | 2018-12-10 to 2018-12-10 |
 | `ordenanza-regional-006-2017-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2017-CR/GOB.REG.TACNA: Declaran de interés público regional la elaboración y aplicación de la zonificación y ordenamiento forestal en el departamento de Tacna | 1 | 2018-05-27 to 2018-05-27 |
+| `ordenanza-regional-040-2014-cr-gob-reg-tacna` | Ordenanza Regional N° 040-2014-CR/GOB.REG.TACNA: Aprueban el Reglamento de Organización y Funciones  (ROF) de la Dirección Regional de Comercio Exterior y Turismo de Tacna | 1 | 2015-03-28 to 2015-03-28 |
+| `ordenanza-regional-022-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 022-2013-CR/GOB.REG.TACNA: Aprueban la creación de la Unidad Ejecutora "Unidad de Gestión Educativa Local - UGEL TACNA" | 1 | 2013-12-31 to 2013-12-31 |
+| `ordenanza-regional-035-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 035-2013-CR/GOB.REG.TACNA: Declaran de interés regional la obtención de la denominación de origen del orégano de Tacna con el fin de identificar su procedencia y genuinidad | 1 | 2013-12-31 to 2013-12-31 |
+| `ordenanza-regional-032-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 032-2013-CR/GOB.REG. TACNA: Constituyen la Mesa Técnica Metalmecánica de la Región Tacna | 1 | 2013-12-27 to 2013-12-27 |
+| `ordenanza-regional-030-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 030-2013-CR/GOB.REG. TACNA: Modifican el Reglamento de Organización y Funciones - ROF de la Dirección Regional de Transportes y Comunicaciones  Tacna | 1 | 2013-12-27 to 2013-12-27 |
+| `ordenanza-regional-020-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 020-2013-CR/GOB.REG. TACNA: Prohíben ocupación ilegal de predios urbanos y/o eriazos del Estado dentro de la jurisdicción de la Región Tacna | 1 | 2013-12-27 to 2013-12-27 |
+| `ordenanza-regional-029-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 029-2013-CR/GOB.REG. TACNA: Declaran de interés público y prioridad regional el monitoreo y vigilancia ambiental en la Región Tacna | 1 | 2013-12-27 to 2013-12-27 |
+| `ordenanza-regional-028-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 028-2013-CR/GOB.REG.TACNA: Declaran de interés y necesidad regional impulsar el desarrollo, utilización y masificación de la Banda Ancha en la Región Tacna | 1 | 2013-12-16 to 2013-12-16 |
+| `ordenanza-regional-009-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 009-2013-CR/GOB.REG.TACNA: Regulan el otorgamiento de subvenciones para fines sociales por parte del Gobierno Regional de Tacna | 1 | 2013-10-04 to 2013-10-04 |
+| `ordenanza-regional-010-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 010-2013-CR/GOB.REG.TACNA: Declaran de interés y necesidad regional el estudio de la situación del Mercado del Transporte Terrestre de Pasajeros dentro del ámbito de la Región Tacna | 1 | 2013-08-26 to 2013-08-26 |
+| `ordenanza-regional-015-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 015-2013-CR/GOB.REG.TACNA: Declaran de interés regional la formación y equipamiento de compañías de bomberos voluntarios en el ámbito de la Región Tacna | 1 | 2013-08-26 to 2013-08-26 |
+| `ordenanza-regional-016-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 016-2013-CR/GOB.REG.TACNA: Institucionalizan la condecoración anual denominada "Maestro del Año de la Región Tacna" | 1 | 2013-08-22 to 2013-08-22 |
+| `ordenanza-regional-014-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 014-2013-CR/GOB.REG.TACNA: Establecen disposiciones para la implementación y desarrollo del Área Curricular de Educación por el Arte en los niveles primaria y secundaria en instituciones educativas de Gestión Pública | 1 | 2013-08-22 to 2013-08-22 |
+| `ordenanza-regional-012-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 012-2013-CR/GOB. REG.TACNA: Aprueban Programa Regional de Población Tacna 2013 - 2017 | 1 | 2013-07-21 to 2013-07-21 |
+| `ordenanza-regional-011-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 011-2013-CR/GOB. REG.TACNA: Aprueban Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Agricultura Tacna | 1 | 2013-07-21 to 2013-07-21 |
+| `ordenanza-regional-004-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 004-2013-CR/GOB.REG.TACNA: Declaran de interés y necesidad regional la promoción del uso masivo del gas natural para los sectores residencial, comercial, industrial, vehicular y como servicio público en la Región Tacna | 1 | 2013-06-03 to 2013-06-03 |
+| `ordenanza-regional-007-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 007-2013-CR/GOB.REG.TACNA: Modifican artículos de la Ordenanza Regional N° 001-2013-CR/GOB.REG.TACNA, que declaró como Política Pública Regional de Vivienda del Gobierno Regional, el Programa Regional de Vivienda denominado "Vivienda Digna para Tacna" | 1 | 2013-05-06 to 2013-05-06 |
+| `ordenanza-regional-006-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2013-CR/GOB.REG.TACNA: Aprueban Reglamento del Proceso del Presupuesto Participativo Basado en Resultados del Gobierno Regional de Tacna - Año Fiscal 2014 | 1 | 2013-05-06 to 2013-05-06 |
+| `ordenanza-regional-002-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 002-2013-CR/GOB.REG.TACNA: Aprueban modificaciones de Cuadros para Asignación de Personal de la Dirección Regional Sectorial de Salud Tacna y del Hospital Hipólito Unánue de Tacna | 1 | 2013-03-21 to 2013-03-21 |
+| `ordenanza-regional-001-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2013-CR/GOB.REG.TACNA: Declaran como Política Pública Regional de Vivienda del Gobierno Regional de Tacna, el Programa Regional de Vivienda denominado "Vivienda Digna para Tacna" | 1 | 2013-03-11 to 2013-03-11 |
+| `ordenanza-regional-004-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 004-2012-CR/GOB.REG.TACNA: Derogan la Ordenanza Regional N° 003-2004-CR/GOB.REG.TACNA y su modificatoria y el Decreto Regional N° 005-2012-P.R./GOB.REG.TACNA | 1 | 2013-02-21 to 2013-02-21 |
+| `ordenanza-regional-017-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 017-2012-CR/GOB.REG.TACNA: Aprueban Presupuesto Participativo Basado en Resultados 2013 del Gobierno Regional Tacna | 1 | 2013-01-25 to 2013-01-25 |
+| `ordenanza-regional-014-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 014-2012-CR/GOB.REG.TACNA: Disponen creación y funcionamiento de la "Mesa por la Participación y Desarrollo Inclusivo de las Personas con Discapacidad de Tacna" | 1 | 2013-01-25 to 2013-01-25 |
+| `ordenanza-regional-016-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 016-2012-CR/GOB.REG.TACNA: Aprueban la Zonificación Ecológica y Económica (ZEE) de la Región Tacna | 1 | 2013-01-19 to 2013-01-19 |
+| `ordenanza-regional-011-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 011-2012-CR/GOB.REG.TACNA: Aprueban modificación de Cuadros para Asignación de Personal de la Dirección Regional Sectorial de Salud Tacna y del Hospital Hipólito Unanue de Tacna | 1 | 2012-12-29 to 2012-12-29 |
+| `ordenanza-regional-012-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 012-2012-CR/GOB.REG.TACNA: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo de Tacna | 1 | 2012-12-29 to 2012-12-29 |
+| `ordenanza-regional-010-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 010-2012-CR/GOB.REG.TACNA: Crean el Comité Consultivo Regional de Turismo de Tacna - CCRTT | 1 | 2012-12-29 to 2012-12-29 |
+| `ordenanza-regional-013-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 013-2012-CR/GOB.REG.TACNA: Aprueban Plan Regional de Cooperación Internacional No Reembolsable (PRCINR) 2012-2015 del Gobierno Regional de Tacna | 1 | 2012-12-29 to 2012-12-29 |
+| `ordenanza-regional-009-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 009-2012-CR/GOB.REG.TACNA: Declaran de interés y prioridad regional la ejecución de diversos proyectos | 1 | 2012-12-08 to 2012-12-08 |
+| `ordenanza-regional-008-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 008-2012-CR/GOB.REG.TACNA: Incorporan el contenido de Comercio Exterior dentro del Conocimiento de Gestión Empresarial del Área Curricular de Educación para el Trabajo del Plan de Estudios de la Educación Básica Regular, dentro del VII Ciclo de Educación Básica Regular | 1 | 2012-12-08 to 2012-12-08 |
+| `ordenanza-regional-006-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2012-CR/GOB.REG.TACNA: Declaran de necesidad pública e interés regional el Sistema de Seguridad Ciudadana | 1 | 2012-12-08 to 2012-12-08 |
+| `ordenanza-regional-007-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 007-2012-CR/GOB.REG.TACNA: Declaran de interés regional la formulación de políticas para la prevención, atención y protección de la población escolar afectada frente a la violencia en las instituciones educativas de la jurisdicción de la Región Tacna | 1 | 2012-12-08 to 2012-12-08 |
+| `ordenanza-regional-005-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 005-2012-CR/GOB.REG.TACNA: Declaran a la Región Tacna como zona libre de transgénicos | 1 | 2012-12-08 to 2012-12-08 |
+| `ordenanza-regional-003-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 003-2012-CR/GOB.REG.TACNA: Aprueban Cronograma Resumen de Ejecución de Actividades 2012, Reglamento de Conformación del Equipo Técnico y Reglamento de Identificación y Acreditación de los Agentes Participantes para el Presupuesto Participativo Basado en Resultados para el Año F | 1 | 2012-05-28 to 2012-05-28 |
+| `ordenanza-regional-002-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 002-2012-CR/GOB. REG.TACNA: Aprueban la Política Ambiental Regional de Tacna | 1 | 2012-05-28 to 2012-05-28 |
+| `ordenanza-regional-001-2012-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2012-CR/GOB.REG.TACNA: Aprueban Plan Maestro 2012 - 2016 del Área de Conservación Regional Vilacota Maure | 1 | 2012-04-17 to 2012-04-17 |
+| `ordenanza-regional-008-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 008-2011-CR/GOB.REG.TACNA: Aprueban Cuadros para Asignación de Personal de la Dirección Regional Sectorial de Salud Tacna, Dirección de Red de Salud Tacna y del Hospital Hipólito Unanue | 1 | 2012-03-02 to 2012-03-02 |
+| `ordenanza-regional-012-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 012-2011-CR/GOB.REG.TACNA: Establecen los Sistemas Regionales de Áreas Naturales Protegidas, de Información Ambiental, de Evaluación y Fiscalización Ambiental y de Evalución de Impacto Ambiental | 1 | 2012-03-02 to 2012-03-02 |
+| `ordenanza-regional-011-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 011-2011-CR/GOB.REG.TACNA: Modifican el Reglamento Interno de la Comisión Ambiental Regional Tacna - CAR TACNA | 1 | 2012-03-02 to 2012-03-02 |
+| `ordenanza-regional-010-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 010-2011-CR/GOB.REG.TACNA: Declaran de interés regional y de alta prioridad la aprobación de la propuesta de creación del Área de Conservación Regional Lomas de Tacahuay | 1 | 2012-03-02 to 2012-03-02 |
+| `ordenanza-regional-005-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 005-2011-CR/GOB.REG.TACNA: Crean el Registro de Invasores de Terrenos en la Región Tacna y aprueban su Reglamento | 1 | 2012-03-02 to 2012-03-02 |
+| `ordenanza-regional-006-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2011-CR/GOB.REG.TACNA: Aprueban la Agenda Ambiental Regional 2011-2012 | 1 | 2011-12-02 to 2011-12-02 |
+| `ordenanza-regional-004-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 004-2011-CR/GOB.REG.TACNA: Aprueban Cronograma de Ejecución de Actividades Propuestas para el Proceso Participativo Presupuestal 2012 del Gobierno Regional Tacna y Reglamentos de identificación y acreditación de agentes participantes y de conformación de equipo técnico | 1 | 2011-08-01 to 2011-08-01 |
+| `ordenanza-regional-002-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 002-2011-CR/GOB.REG.TACNA: Declaran en proceso de reestructuración administrativa y presupuestal la sede del Gobierno Regional y sus Unidades Ejecutoras | 1 | 2011-07-30 to 2011-07-30 |
+| `ordenanza-regional-001-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2011-CR/GOB.REG.TACNA: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Sectorial de Salud de Tacna | 1 | 2011-03-10 to 2011-03-10 |
 
-The build made 206 commits:
+The build made 251 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 206 | first version of an act |
+| 251 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 206 laws in the record.
-- 412 tags.
+- 251 laws in the record.
+- 502 tags.
 
 ## Dates
 
@@ -246,7 +291,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9a5abcf3a10ed8af97c046ba4c989df8b36563ec0b80e6ead797ac5aa69fbb1d` (2730659 bytes).
+- Corpus: sha256 `32381fc28cf0b5c2842bc8698a177f0c2300f3486359f7957152868d32a4ad40` (3380639 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

@@ -2884,6 +2884,636 @@
      "sha256": "5f087093773b540742558fc8ce0347099428b072748c0cfd135a0fe09cc96958"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-040-2014-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 040-2014-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 040-2014-CR/GOB.REG.TACNA: Aprueban el Reglamento de Organización y Funciones  (ROF) de la Dirección Regional de Comercio Exterior y Turismo de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1216418-1",
+   "versions": [
+    {
+     "from": "2015-03-28",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DwIxcg4rKwl8-yLcqYWmU2/*/1216418-1.pdf",
+     "sha256": "48008936e40fda490299b768716e7ff8d70478e56585688dbe4bf0bf3fa4318b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-022-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 022-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 022-2013-CR/GOB.REG.TACNA: Aprueban la creación de la Unidad Ejecutora \"Unidad de Gestión Educativa Local - UGEL TACNA\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1033100-1",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0RInzIK44Lt8tFGqYXVR7q/*/1033100-1.pdf",
+     "sha256": "74d96086c84ab3267e7a33eb0b3385d48cf1e2083fa8f762ea51b44c86837601"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-035-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 035-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 035-2013-CR/GOB.REG.TACNA: Declaran de interés regional la obtención de la denominación de origen del orégano de Tacna con el fin de identificar su procedencia y genuinidad",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1033100-2",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EtzB5xrAqSa8AZWnvCdq_r/*/1033100-2.pdf",
+     "sha256": "a44962c291c73d3bd25ba9e6f05badc77391ca099cd64b3f87b9ce552b172e8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-032-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 032-2013-CR/GOB.REG. TACNA",
+   "title": "Ordenanza Regional N° 032-2013-CR/GOB.REG. TACNA: Constituyen la Mesa Técnica Metalmecánica de la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1031790-4",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ACFCRjVPKOJAcLaFyCQLvo/*/1031790-4.pdf",
+     "sha256": "893657bfc56121c8fda2b81c961c0e0cabbf3cd7eca999f55924258831723fdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-030-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 030-2013-CR/GOB.REG. TACNA",
+   "title": "Ordenanza Regional N° 030-2013-CR/GOB.REG. TACNA: Modifican el Reglamento de Organización y Funciones - ROF de la Dirección Regional de Transportes y Comunicaciones  Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1031790-3",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/94OSBgJFqvP9Z-GDJ_eyL5/*/1031790-3.pdf",
+     "sha256": "0b7da1ae4f174cc6854f7ea30dcf136d82d8756e6ea7cb46ffae3cfab623b8a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 020-2013-CR/GOB.REG. TACNA",
+   "title": "Ordenanza Regional N° 020-2013-CR/GOB.REG. TACNA: Prohíben ocupación ilegal de predios urbanos y/o eriazos del Estado dentro de la jurisdicción de la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1031790-1",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/At_gfk8v4ww8qPisNnAa_T/*/1031790-1.pdf",
+     "sha256": "514c81e898ca0f173328f17418ed2419019bfa2689dfb2c6847c25d9ecf0c19e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-029-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 029-2013-CR/GOB.REG. TACNA",
+   "title": "Ordenanza Regional N° 029-2013-CR/GOB.REG. TACNA: Declaran de interés público y prioridad regional el monitoreo y vigilancia ambiental en la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1031790-2",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9u1AgVLrq_TAiNi4ncXlTX/*/1031790-2.pdf",
+     "sha256": "cb04a04d6dc17debdd609a644fb629eff41b0668acde47da430acda1b216d206"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-028-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 028-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 028-2013-CR/GOB.REG.TACNA: Declaran de interés y necesidad regional impulsar el desarrollo, utilización y masificación de la Banda Ancha en la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1027908-1",
+   "versions": [
+    {
+     "from": "2013-12-16",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8yl6dRz7aYFA9iOWH2d5N6/*/1027908-1.pdf",
+     "sha256": "a49488a470101d98b73c162dde58d6a565329d49e1dff5a11821300369ca67e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 009-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 009-2013-CR/GOB.REG.TACNA: Regulan el otorgamiento de subvenciones para fines sociales por parte del Gobierno Regional de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/995521-1",
+   "versions": [
+    {
+     "from": "2013-10-04",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9YHoTE5iK6QAqV95L1ZFRf/*/995521-1.pdf",
+     "sha256": "35972739550fb5bd44e3b37d2453dd24a9b9693024d338548ccf2c3774a877ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 010-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 010-2013-CR/GOB.REG.TACNA: Declaran de interés y necesidad regional el estudio de la situación del Mercado del Transporte Terrestre de Pasajeros dentro del ámbito de la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/979332-1",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6UojnhUGqRtAsV-RkJ-8NB/*/979332-1.pdf",
+     "sha256": "4e0e6837525718c50eed6b37cec127292d52b0d7e9a8be8ecce3b1828f4c6eaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 015-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 015-2013-CR/GOB.REG.TACNA: Declaran de interés regional la formación y equipamiento de compañías de bomberos voluntarios en el ámbito de la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/979332-2",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6hzTm4iNKMbBPwfoLPf4fV/*/979332-2.pdf",
+     "sha256": "8dd8f111381d5e3d07fb06956d09b567b161903aacbf04157f866e2aeb40c4c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 016-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 016-2013-CR/GOB.REG.TACNA: Institucionalizan la condecoración anual denominada \"Maestro del Año de la Región Tacna\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/976630-3",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CW12Tg7_agd9EgQir-eYBs/*/976630-3.pdf",
+     "sha256": "72ba5f1a56962c94014f8cfbc323e30bf3e8e91fba8c9df879ee71afd7c95958"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 014-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 014-2013-CR/GOB.REG.TACNA: Establecen disposiciones para la implementación y desarrollo del Área Curricular de Educación por el Arte en los niveles primaria y secundaria en instituciones educativas de Gestión Pública",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/976630-2",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BLmDzUl9KhF9webSAewNS3/*/976630-2.pdf",
+     "sha256": "6022a6e5b88c871f2b499b10a3b5fed06843f637991e36e20d28bdc8baca3f15"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 012-2013-CR/GOB. REG.TACNA",
+   "title": "Ordenanza Regional N° 012-2013-CR/GOB. REG.TACNA: Aprueban Programa Regional de Población Tacna 2013 - 2017",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/964052-2",
+   "versions": [
+    {
+     "from": "2013-07-21",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/11cjySKiKeiA4UxAUY0gLO/*/964052-2.pdf",
+     "sha256": "692751dee1c3bafb58137ce7a1ab5f46a4f4842d1569f44156a973c9fb87be1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 011-2013-CR/GOB. REG.TACNA",
+   "title": "Ordenanza Regional N° 011-2013-CR/GOB. REG.TACNA: Aprueban Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Agricultura Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/964052-1",
+   "versions": [
+    {
+     "from": "2013-07-21",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FVS7p040Knn8tpRYRCd759/*/964052-1.pdf",
+     "sha256": "6fc87a0d8441786b55138ccc6a61b178513050e50b3648ebfc6ba94847cf3e48"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 004-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 004-2013-CR/GOB.REG.TACNA: Declaran de interés y necesidad regional la promoción del uso masivo del gas natural para los sectores residencial, comercial, industrial, vehicular y como servicio público en la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/944914-1",
+   "versions": [
+    {
+     "from": "2013-06-03",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5ZRscTLMKLH8AuRqEqeS9h/*/944914-1.pdf",
+     "sha256": "402264ca936eb4eddf3425ce1d2294b7bed9e644a48e8c9824f9a9e6cece5173"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 007-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 007-2013-CR/GOB.REG.TACNA: Modifican artículos de la Ordenanza Regional N° 001-2013-CR/GOB.REG.TACNA, que declaró como Política Pública Regional de Vivienda del Gobierno Regional, el Programa Regional de Vivienda denominado \"Vivienda Digna para Tacna\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/933040-2",
+   "versions": [
+    {
+     "from": "2013-05-06",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2J6cZ2rU4xoAfFiRPj7tsg/*/933040-2.pdf",
+     "sha256": "5ee618ed504ee538cdd91621057672e189f1772cc14155359a7833263378463f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 006-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 006-2013-CR/GOB.REG.TACNA: Aprueban Reglamento del Proceso del Presupuesto Participativo Basado en Resultados del Gobierno Regional de Tacna - Año Fiscal 2014",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/933040-1",
+   "versions": [
+    {
+     "from": "2013-05-06",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5NBN3GtGKrFBgpZUpy_F5o/*/933040-1.pdf",
+     "sha256": "af0bc78b82e609b2b61d145a37fe1fd5cd3e1c67d7cda0cb876080c8a2a1d5d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 002-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 002-2013-CR/GOB.REG.TACNA: Aprueban modificaciones de Cuadros para Asignación de Personal de la Dirección Regional Sectorial de Salud Tacna y del Hospital Hipólito Unánue de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/913664-1",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DSaLciF5K4K9ls5nbUXGN0/*/913664-1.pdf",
+     "sha256": "fb7c7a1d45240fec04c17b8ae0c7d597afcac5055db5f488bc258b43761de31c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2013-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 001-2013-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 001-2013-CR/GOB.REG.TACNA: Declaran como Política Pública Regional de Vivienda del Gobierno Regional de Tacna, el Programa Regional de Vivienda denominado \"Vivienda Digna para Tacna\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/909565-1",
+   "versions": [
+    {
+     "from": "2013-03-11",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9YF0sr6ZKFK9FnIErbh2sb/*/909565-1.pdf",
+     "sha256": "e21ee5c39af5e27ceccdb4941d201b12911c5139e10b0f1bc148b1070680538d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 004-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 004-2012-CR/GOB.REG.TACNA: Derogan la Ordenanza Regional N° 003-2004-CR/GOB.REG.TACNA y su modificatoria y el Decreto Regional N° 005-2012-P.R./GOB.REG.TACNA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/902576-1",
+   "versions": [
+    {
+     "from": "2013-02-21",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/04tZSsL14ldAq4aawbaiou/*/902576-1.pdf",
+     "sha256": "8d97920daf3518acc6794348c1239b851e87403dd70dce4114032016769861d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 017-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 017-2012-CR/GOB.REG.TACNA: Aprueban Presupuesto Participativo Basado en Resultados 2013 del Gobierno Regional Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/892038-2",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CJpGr8-DamVBCEFuuBWFQH/*/892038-2.pdf",
+     "sha256": "af371e5171746a36618bf00b0ef11884f648add3b89b4da1a350ce32935e5c52"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 014-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 014-2012-CR/GOB.REG.TACNA: Disponen creación y funcionamiento de la \"Mesa por la Participación y Desarrollo Inclusivo de las Personas con Discapacidad de Tacna\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/892038-1",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0wXQkAYRq2S8IwS6CSC9js/*/892038-1.pdf",
+     "sha256": "ea6d97ab232f7a6d78c28120161b0be06ec8024d9ca0dcfee56f16656a2f20b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 016-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 016-2012-CR/GOB.REG.TACNA: Aprueban la Zonificación Ecológica y Económica (ZEE) de la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/889713-1",
+   "versions": [
+    {
+     "from": "2013-01-19",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CPh6nzreaTdBY8f1cFjP6Z/*/889713-1.pdf",
+     "sha256": "8d18878c849127f008995cebc0e7691cde6f983d9e1458450ebe905a970f52d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 011-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 011-2012-CR/GOB.REG.TACNA: Aprueban modificación de Cuadros para Asignación de Personal de la Dirección Regional Sectorial de Salud Tacna y del Hospital Hipólito Unanue de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/882240-2",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1LCkmQltKnCB_wyFL-1XNO/*/882240-2.pdf",
+     "sha256": "8ae9001e2d47698876f030721f5ee3ab876bb4fc0b67c5a1a26a97f0636ea6ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 012-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 012-2012-CR/GOB.REG.TACNA: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/882240-3",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CeBjyoOyqy29nR4nsWiNZh/*/882240-3.pdf",
+     "sha256": "8a97c2580f07e2130139ce0382e391ed6af9573efa5fef29f3648ef23b0dc621"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 010-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 010-2012-CR/GOB.REG.TACNA: Crean el Comité Consultivo Regional de Turismo de Tacna - CCRTT",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/882240-1",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0lxGM9-q4-29m9yawTTlin/*/882240-1.pdf",
+     "sha256": "5191d2c69288df1af8eeeb84493986321fa8d73ba46c9acb7b1cab25556501b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 013-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 013-2012-CR/GOB.REG.TACNA: Aprueban Plan Regional de Cooperación Internacional No Reembolsable (PRCINR) 2012-2015 del Gobierno Regional de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/882240-4",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C1lcNF7IKtbBTNH9AG3efR/*/882240-4.pdf",
+     "sha256": "c34524e5bc64eb2793920d15f4077982a379912349495387ec78822eff06e818"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 009-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 009-2012-CR/GOB.REG.TACNA: Declaran de interés y prioridad regional la ejecución de diversos proyectos",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/874900-5",
+   "versions": [
+    {
+     "from": "2012-12-08",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9vza6EmaqHgAfPp0LxBkUJ/*/874900-5.pdf",
+     "sha256": "4a4e057cc7602e3eda7e1b19334db16d47c9ab08ec6821eaa30442d0ec2c8b58"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 008-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 008-2012-CR/GOB.REG.TACNA: Incorporan el contenido de Comercio Exterior dentro del Conocimiento de Gestión Empresarial del Área Curricular de Educación para el Trabajo del Plan de Estudios de la Educación Básica Regular, dentro del VII Ciclo de Educación Básica Regular",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/874900-4",
+   "versions": [
+    {
+     "from": "2012-12-08",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1zDLayXvagX9o38WQXypIc/*/874900-4.pdf",
+     "sha256": "129575571c9b3556886400e98a8e5ca5752c8cba14d8e78636ee2f1e570d2ce6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 006-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 006-2012-CR/GOB.REG.TACNA: Declaran de necesidad pública e interés regional el Sistema de Seguridad Ciudadana",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/874900-2",
+   "versions": [
+    {
+     "from": "2012-12-08",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FQ7YhwxC4mOB6D1JXzpLBy/*/874900-2.pdf",
+     "sha256": "eae63851241fead5069bb23dc74241df76de8eb8ae4bd0dfbe162055562c06be"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 007-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 007-2012-CR/GOB.REG.TACNA: Declaran de interés regional la formulación de políticas para la prevención, atención y protección de la población escolar afectada frente a la violencia en las instituciones educativas de la jurisdicción de la Región Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/874900-3",
+   "versions": [
+    {
+     "from": "2012-12-08",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9G1iWOTNKFS9Zn-sVVO8AL/*/874900-3.pdf",
+     "sha256": "fbba722ad69446cf7f868fb4c055ed2f19f72846d2ba6c620c67ce89c32b3528"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 005-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 005-2012-CR/GOB.REG.TACNA: Declaran a la Región Tacna como zona libre de transgénicos",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/874900-1",
+   "versions": [
+    {
+     "from": "2012-12-08",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6slTNdUX4edBUEV0sEvGoC/*/874900-1.pdf",
+     "sha256": "9f353b6eee2e0ef69a976ff1e292a152dd1d88a6503f8e0e069fdb4b6347a511"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 003-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 003-2012-CR/GOB.REG.TACNA: Aprueban Cronograma Resumen de Ejecución de Actividades 2012, Reglamento de Conformación del Equipo Técnico y Reglamento de Identificación y Acreditación de los Agentes Participantes para el Presupuesto Participativo Basado en Resultados para el Año F",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/793414-1",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3fd94_G6ayCAFDWaGYbohx/*/793414-1.pdf",
+     "sha256": "561a0fc28295910bd2be391a68a4d1720b90bd01149ff8a9c04252942cb9657f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 002-2012-CR/GOB. REG.TACNA",
+   "title": "Ordenanza Regional N° 002-2012-CR/GOB. REG.TACNA: Aprueban la Política Ambiental Regional de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/793413-1",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1j1oKA9VKDH8HthRpe95t_/*/793413-1.pdf",
+     "sha256": "34336beaecab10b755ca9598125a55f8528a22a7b7910c470bcb54f328347349"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2012-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 001-2012-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 001-2012-CR/GOB.REG.TACNA: Aprueban Plan Maestro 2012 - 2016 del Área de Conservación Regional Vilacota Maure",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/776357-1",
+   "versions": [
+    {
+     "from": "2012-04-17",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/02mGifJJauc8sSFBPnTEar/*/776357-1.pdf",
+     "sha256": "f69893dc06b69ea1bc469fe54e0b5b9a529d4e49e4f66e8eb47e267aaa3c0803"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 008-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 008-2011-CR/GOB.REG.TACNA: Aprueban Cuadros para Asignación de Personal de la Dirección Regional Sectorial de Salud Tacna, Dirección de Red de Salud Tacna y del Hospital Hipólito Unanue",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/757744-1",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/03gMSdfhKqU9bjAoLSHGcI/*/757744-1.pdf",
+     "sha256": "8df672ce6bb31677be69fead9706d1b8911573c1ba924f5da164d0c6d8fba1b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 012-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 012-2011-CR/GOB.REG.TACNA: Establecen los Sistemas Regionales de Áreas Naturales Protegidas, de Información Ambiental, de Evaluación y Fiscalización Ambiental y de Evalución de Impacto Ambiental",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/757734-4",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5N2o8IJ-KDF9qGBhzII2HW/*/757734-4.pdf",
+     "sha256": "2022f87da996ed228ad73840baec10b10ca59df244f0b1a888cb1976a95190dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 011-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 011-2011-CR/GOB.REG.TACNA: Modifican el Reglamento Interno de la Comisión Ambiental Regional Tacna - CAR TACNA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/757734-3",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9rMS7aP2qwbBHixZDqrCbl/*/757734-3.pdf",
+     "sha256": "c49bef56ad4f71ece6a50261b033a704d969d0922aeda653588f3099ea66b262"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 010-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 010-2011-CR/GOB.REG.TACNA: Declaran de interés regional y de alta prioridad la aprobación de la propuesta de creación del Área de Conservación Regional Lomas de Tacahuay",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/757734-2",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4ebIOzD6a6D9sU1R0xzkSQ/*/757734-2.pdf",
+     "sha256": "ac08603466d334bfe2b17902a9e24ab3a498eac14ebf4bff4ca12564bed01f64"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 005-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 005-2011-CR/GOB.REG.TACNA: Crean el Registro de Invasores de Terrenos en la Región Tacna y aprueban su Reglamento",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/757734-1",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9x85NMT-q5w9WJxOp9jwzW/*/757734-1.pdf",
+     "sha256": "3e822ac944ac43162e8a232ad15abc19fdb403df3ee35eca58f5b450e3653a82"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 006-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 006-2011-CR/GOB.REG.TACNA: Aprueban la Agenda Ambiental Regional 2011-2012",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/723040-1",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CI50wsCqaabA0AYUBwjqqL/*/723040-1.pdf",
+     "sha256": "11777fb346ad6b87d42951f4f8502452e6bedf66db00ded1ed39086679397933"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 004-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 004-2011-CR/GOB.REG.TACNA: Aprueban Cronograma de Ejecución de Actividades Propuestas para el Proceso Participativo Presupuestal 2012 del Gobierno Regional Tacna y Reglamentos de identificación y acreditación de agentes participantes y de conformación de equipo técnico",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/671501-1",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F_UWAZW9quL9OsTgZq67sk/*/671501-1.pdf",
+     "sha256": "246dbfd3ad3d19849f1e676e68235e03ecbd7a3d4d0c09e54d072ff037728438"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 002-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 002-2011-CR/GOB.REG.TACNA: Declaran en proceso de reestructuración administrativa y presupuestal la sede del Gobierno Regional y sus Unidades Ejecutoras",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/671494-1",
+   "versions": [
+    {
+     "from": "2011-07-30",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/08AO8eLE46Z9-EdjkPxws6/*/671494-1.pdf",
+     "sha256": "e0f61153d5cb5c4a6cd3614dd6a2793cfe2484da34f65ba85f4363724251a2f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2011-cr-gob-reg-tacna",
+   "short": "Ordenanza Regional N° 001-2011-CR/GOB.REG.TACNA",
+   "title": "Ordenanza Regional N° 001-2011-CR/GOB.REG.TACNA: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Sectorial de Salud de Tacna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/610519-1",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2ZKt_haZa_EBxr-z1Wflli/*/610519-1.pdf",
+     "sha256": "22f0ea17bfb0d90d70423c2ec64e45abc5f411eb21e09a9f6a0a2a799c677aec"
+    }
+   ]
   }
  ]
 }
