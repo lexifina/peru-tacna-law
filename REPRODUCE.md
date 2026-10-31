@@ -200,20 +200,41 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-003-2011-cr-gob-reg-tacna` | Ordenanza Regional N° 003-2011-CR/GOB.REG.TACNA: Aprueban el Reglamento Interno del Consejo Regional del Gobierno Regional de Tacna | 1 | 2011-11-20 to 2011-11-20 |
 | `ordenanza-regional-013-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 013-2013-CR/GOB.REG.TACNA: Crean la Comisión Regional Anticorrupción de Tacna | 1 | 2013-08-22 to 2013-08-22 |
 | `ordenanza-regional-005-2013-cr-gob-reg-tacna` | Ordenanza Regional N° 005-2013-CR/GOB.REG.TACNA: Modifican la Ordenanza Regional N° 010-2012-CR/GOB.REG.TACNA que crea el Comité Consultivo Regional de Turismo | 1 | 2013-05-06 to 2013-05-06 |
+| `ordenanza-regional-012-2021-cr-gob-reg-tacna` | Ordenanza Regional N° 012-2021-CR/GOB.REG.TACNA: Modifican el artículo cuarto de la Ordenanza Regional N° 016-2006-CR/GOB.REG.TACNA | 1 | 2021-09-10 to 2021-09-10 |
+| `ordenanza-regional-017-2021-cr-gob-reg-tacna` | Ordenanza Regional N° 017-2021-CR/GOB.REG.TACNA: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-Provisional) del Gobierno Regional de Tacna | 1 | 2021-08-29 to 2021-08-29 |
+| `ordenanza-regional-005-2021-cr-gob-reg-tacna` | Ordenanza Regional N° 005-2021-CR/GOB.REG.TACNA: Aprueban los Estudios Especializados (EE) del departamento de Tacna | 1 | 2021-07-19 to 2021-07-19 |
+| `ordenanza-regional-001-2021-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2021-CR/GOB.REG.TACNA: Declaran de Interés Regional la Conservación, Preservación, Implementación y Difusión de los Conocimientos y las Prácticas Asociadas a la Interpretación Musical de la Zampoña Metálica de Tacna como una Modalidad del Siku | 1 | 2021-07-19 to 2021-07-19 |
+| `ordenanza-regional-006-2021-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2021-CR/GOB.REG.TACNA: Aprueban el estudio denominado Diagnóstico Integrado del Territorio (DIT) del departamento de Tacna | 1 | 2021-07-19 to 2021-07-19 |
+| `ordenanza-regional-003-2020-cr-gob-reg-tacna` | Ordenanza Regional N° 003-2020-CR/GOB.REG.TACNA: Promueven la difusión de mensajes de acciones de sensibilización y con contenidos orientados al rechazo de los delitos aduaneros y piratería en la Región de Tacna | 1 | 2021-07-01 to 2021-07-01 |
+| `ordenanza-regional-002-2021-cr-gob-reg-tacna` | Ordenanza Regional N° 002-2021-CR/GOB.REG.TACNA: Aprueban el Plan de Manejo Integrado de la Zona Marino - Costera de Tacna | 1 | 2021-07-01 to 2021-07-01 |
+| `ordenanza-regional-016-2020-cr-gob-reg-tacna` | Ordenanza Regional N° 016-2020-CR/GOB.REG.TACNA: Constituyen el Comité Ejecutivo Regional Exportador - CERX de la Región Tacna | 1 | 2021-04-19 to 2021-04-19 |
+| `ordenanza-regional-015-2020-cr-gob-reg-tacna` | Ordenanza Regional N° 015-2020-CR/GOB.REG.TACNA: Declaran de Interés Regional el Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa en el ámbito territorial del Gobierno Regional de Tacna | 1 | 2021-02-04 to 2021-02-04 |
+| `ordenanza-regional-010-2020-cg-gob-reg-tacna` | Ordenanza Regional N° 010-2020-CG/GOB.REG.TACNA: Aprueban el Plan Regional de Contingencia por Sismo de la Región Tacna para el año 2020-2021 y el Plan Regional de Contingencia por Tsunami de la Región Tacna para el año 2020-2021 | 1 | 2020-12-04 to 2020-12-04 |
+| `ordenanza-regional-008-2020-cr-gob-reg-tacna` | Ordenanza Regional N° 008-2020-CR/GOB.REG.TACNA: Aprueban el Plan de Acción Regional de Seguridad Ciudadana de la Región Tacna - 2020 | 1 | 2020-11-02 to 2020-11-02 |
+| `ordenanza-regional-006-2020-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2020-CR/GOB.REG.TACNA: Modifican el Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional de Tacna | 1 | 2020-08-24 to 2020-08-24 |
+| `ordenanza-regional-002-2020-cr-gob-reg-tacna` | Ordenanza Regional N° 002-2020-CR/GOB.REG.TACNA: Declaran de importancia los bofedales de la Región Tacna y de urgente y prioritaria necesidad la investigación científica, la restauración y la conservación de estos ecosistemas | 1 | 2020-06-19 to 2020-06-19 |
+| `ordenanza-regional-023-2019-cr-gob-reg-tacna` | Ordenanza Regional N° 023-2019-CR/GOB.REG.TACNA: Declaran de Interés Regional la promoción de la inversión privada para la Ejecución de Proyectos de Vivienda Regional de Interés Social denominados SUMA UTA | 1 | 2020-01-25 to 2020-01-25 |
+| `ordenanza-regional-012-2015-cr-gob-reg-tacna` | Ordenanza Regional N° 012-2015-CR/GOB.REG.TACNA: Reconocen sitios prioritarios para la conservación regional de la diversidad biológica de la Región Tacna | 1 | 2019-12-21 to 2019-12-21 |
+| `ordenanza-regional-007-2019-cr-gob-reg-tacna` | Ordenanza Regional N° 007-2019-CR/GOB.REG.TACNA: Aprueban Reglamento de Supervisión, Fiscalización y Sanción Ambiental y el Reglamento del Servicio Regional de Denuncias Ambientales - SIREDA | 1 | 2019-09-16 to 2019-09-16 |
+| `ordenanza-regional-001-2019-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2019-CR/GOB.REG.TACNA: Modifican Ordenanza N° 013-2013-CR/GOB.REG.TACNA que creó la Comisión Regional Anticorrupción de Tacna | 1 | 2019-05-16 to 2019-05-16 |
+| `ordenanza-regional-011-2016-cr-gob-reg-tacna` | Ordenanza Regional N° 011-2016-CR/GOB.REG.TACNA: Declaran de interés regional la promoción y fomento de la producción agrícola orgánica en la Región Tacna | 1 | 2018-12-10 to 2018-12-10 |
+| `ordenanza-regional-001-2018-cr-gob-reg-tacna` | Ordenanza Regional N° 001-2018-CR/GOB.REG.TACNA: Modifican la Ordenanza Regional N° 009-2014-CR/GOB.REG.TACNA, mediante la cual se creó el Consejo Regional de Productos Orgánicos de la Región de Tacna - COREPO TACNA | 1 | 2018-12-10 to 2018-12-10 |
+| `ordenanza-regional-005-2017-cr-gob-reg-tacna` | Ordenanza Regional N° 005-2017-CR/GOB.REG.TACNA: Declaran de interés y de necesidad regional la creación del Parque Industrial Tecno - Ecologíco en la Región Tacna | 1 | 2018-12-10 to 2018-12-10 |
+| `ordenanza-regional-006-2017-cr-gob-reg-tacna` | Ordenanza Regional N° 006-2017-CR/GOB.REG.TACNA: Declaran de interés público regional la elaboración y aplicación de la zonificación y ordenamiento forestal en el departamento de Tacna | 1 | 2018-05-27 to 2018-05-27 |
 
-The build made 185 commits:
+The build made 206 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 185 | first version of an act |
+| 206 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 185 laws in the record.
-- 370 tags.
+- 206 laws in the record.
+- 412 tags.
 
 ## Dates
 
@@ -225,13 +246,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f8adfe54665cb0a1e208ac1fa045a4ed7170082fbb8f0817ec572534fd132558` (2447174 bytes).
+- Corpus: sha256 `9a5abcf3a10ed8af97c046ba4c989df8b36563ec0b80e6ead797ac5aa69fbb1d` (2730659 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-185 versions of 185 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

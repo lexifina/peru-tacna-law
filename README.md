@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-185 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+206 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -197,6 +197,27 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-003-2011-cr-gob-reg-tacna/` | Ordenanza Regional N° 003-2011-CR/GOB.REG.TACNA: Aprueban el Reglamento Interno del Consejo Regional del Gobierno Regional de Tacna | in force 20 November 2011 |
 | `ordenanza-regional-013-2013-cr-gob-reg-tacna/` | Ordenanza Regional N° 013-2013-CR/GOB.REG.TACNA: Crean la Comisión Regional Anticorrupción de Tacna | in force 22 August 2013 |
 | `ordenanza-regional-005-2013-cr-gob-reg-tacna/` | Ordenanza Regional N° 005-2013-CR/GOB.REG.TACNA: Modifican la Ordenanza Regional N° 010-2012-CR/GOB.REG.TACNA que crea el Comité Consultivo Regional de Turismo | in force 6 May 2013 |
+| `ordenanza-regional-012-2021-cr-gob-reg-tacna/` | Ordenanza Regional N° 012-2021-CR/GOB.REG.TACNA: Modifican el artículo cuarto de la Ordenanza Regional N° 016-2006-CR/GOB.REG.TACNA | in force 10 September 2021 |
+| `ordenanza-regional-017-2021-cr-gob-reg-tacna/` | Ordenanza Regional N° 017-2021-CR/GOB.REG.TACNA: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-Provisional) del Gobierno Regional de Tacna | in force 29 August 2021 |
+| `ordenanza-regional-005-2021-cr-gob-reg-tacna/` | Ordenanza Regional N° 005-2021-CR/GOB.REG.TACNA: Aprueban los Estudios Especializados (EE) del departamento de Tacna | in force 19 July 2021 |
+| `ordenanza-regional-001-2021-cr-gob-reg-tacna/` | Ordenanza Regional N° 001-2021-CR/GOB.REG.TACNA: Declaran de Interés Regional la Conservación, Preservación, Implementación y Difusión de los Conocimientos y la… | in force 19 July 2021 |
+| `ordenanza-regional-006-2021-cr-gob-reg-tacna/` | Ordenanza Regional N° 006-2021-CR/GOB.REG.TACNA: Aprueban el estudio denominado Diagnóstico Integrado del Territorio (DIT) del departamento de Tacna | in force 19 July 2021 |
+| `ordenanza-regional-003-2020-cr-gob-reg-tacna/` | Ordenanza Regional N° 003-2020-CR/GOB.REG.TACNA: Promueven la difusión de mensajes de acciones de sensibilización y con contenidos orientados al rechazo de los … | in force 1 July 2021 |
+| `ordenanza-regional-002-2021-cr-gob-reg-tacna/` | Ordenanza Regional N° 002-2021-CR/GOB.REG.TACNA: Aprueban el Plan de Manejo Integrado de la Zona Marino - Costera de Tacna | in force 1 July 2021 |
+| `ordenanza-regional-016-2020-cr-gob-reg-tacna/` | Ordenanza Regional N° 016-2020-CR/GOB.REG.TACNA: Constituyen el Comité Ejecutivo Regional Exportador - CERX de la Región Tacna | in force 19 April 2021 |
+| `ordenanza-regional-015-2020-cr-gob-reg-tacna/` | Ordenanza Regional N° 015-2020-CR/GOB.REG.TACNA: Declaran de Interés Regional el Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educ… | in force 4 February 2021 |
+| `ordenanza-regional-010-2020-cg-gob-reg-tacna/` | Ordenanza Regional N° 010-2020-CG/GOB.REG.TACNA: Aprueban el Plan Regional de Contingencia por Sismo de la Región Tacna para el año 2020-2021 y el Plan Regional… | in force 4 December 2020 |
+| `ordenanza-regional-008-2020-cr-gob-reg-tacna/` | Ordenanza Regional N° 008-2020-CR/GOB.REG.TACNA: Aprueban el Plan de Acción Regional de Seguridad Ciudadana de la Región Tacna - 2020 | in force 2 November 2020 |
+| `ordenanza-regional-006-2020-cr-gob-reg-tacna/` | Ordenanza Regional N° 006-2020-CR/GOB.REG.TACNA: Modifican el Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional de Tacna | in force 24 August 2020 |
+| `ordenanza-regional-002-2020-cr-gob-reg-tacna/` | Ordenanza Regional N° 002-2020-CR/GOB.REG.TACNA: Declaran de importancia los bofedales de la Región Tacna y de urgente y prioritaria necesidad la investigación … | in force 19 June 2020 |
+| `ordenanza-regional-023-2019-cr-gob-reg-tacna/` | Ordenanza Regional N° 023-2019-CR/GOB.REG.TACNA: Declaran de Interés Regional la promoción de la inversión privada para la Ejecución de Proyectos de Vivienda Re… | in force 25 January 2020 |
+| `ordenanza-regional-012-2015-cr-gob-reg-tacna/` | Ordenanza Regional N° 012-2015-CR/GOB.REG.TACNA: Reconocen sitios prioritarios para la conservación regional de la diversidad biológica de la Región Tacna | in force 21 December 2019 |
+| `ordenanza-regional-007-2019-cr-gob-reg-tacna/` | Ordenanza Regional N° 007-2019-CR/GOB.REG.TACNA: Aprueban Reglamento de Supervisión, Fiscalización y Sanción Ambiental y el Reglamento del Servicio Regional de … | in force 16 September 2019 |
+| `ordenanza-regional-001-2019-cr-gob-reg-tacna/` | Ordenanza Regional N° 001-2019-CR/GOB.REG.TACNA: Modifican Ordenanza N° 013-2013-CR/GOB.REG.TACNA que creó la Comisión Regional Anticorrupción de Tacna | in force 16 May 2019 |
+| `ordenanza-regional-011-2016-cr-gob-reg-tacna/` | Ordenanza Regional N° 011-2016-CR/GOB.REG.TACNA: Declaran de interés regional la promoción y fomento de la producción agrícola orgánica en la Región Tacna | in force 10 December 2018 |
+| `ordenanza-regional-001-2018-cr-gob-reg-tacna/` | Ordenanza Regional N° 001-2018-CR/GOB.REG.TACNA: Modifican la Ordenanza Regional N° 009-2014-CR/GOB.REG.TACNA, mediante la cual se creó el Consejo Regional de P… | in force 10 December 2018 |
+| `ordenanza-regional-005-2017-cr-gob-reg-tacna/` | Ordenanza Regional N° 005-2017-CR/GOB.REG.TACNA: Declaran de interés y de necesidad regional la creación del Parque Industrial Tecno - Ecologíco en la Región Ta… | in force 10 December 2018 |
+| `ordenanza-regional-006-2017-cr-gob-reg-tacna/` | Ordenanza Regional N° 006-2017-CR/GOB.REG.TACNA: Declaran de interés público regional la elaboración y aplicación de la zonificación y ordenamiento forestal en … | in force 27 May 2018 |
 
 ## Source
 

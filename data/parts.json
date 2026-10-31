@@ -229,6 +229,32 @@
     "ordenanza-regional-013-2013-cr-gob-reg-tacna"
    ],
    "sha256": "6f0a10eada129a1a978f744e97147aff7298d9cb32c8d728e5df018e54534352"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2018-cr-gob-reg-tacna",
+    "ordenanza-regional-001-2019-cr-gob-reg-tacna",
+    "ordenanza-regional-001-2021-cr-gob-reg-tacna",
+    "ordenanza-regional-002-2020-cr-gob-reg-tacna",
+    "ordenanza-regional-002-2021-cr-gob-reg-tacna",
+    "ordenanza-regional-003-2020-cr-gob-reg-tacna",
+    "ordenanza-regional-005-2017-cr-gob-reg-tacna",
+    "ordenanza-regional-005-2021-cr-gob-reg-tacna",
+    "ordenanza-regional-006-2017-cr-gob-reg-tacna",
+    "ordenanza-regional-006-2020-cr-gob-reg-tacna",
+    "ordenanza-regional-006-2021-cr-gob-reg-tacna",
+    "ordenanza-regional-007-2019-cr-gob-reg-tacna",
+    "ordenanza-regional-008-2020-cr-gob-reg-tacna",
+    "ordenanza-regional-010-2020-cg-gob-reg-tacna",
+    "ordenanza-regional-011-2016-cr-gob-reg-tacna",
+    "ordenanza-regional-012-2015-cr-gob-reg-tacna",
+    "ordenanza-regional-012-2021-cr-gob-reg-tacna",
+    "ordenanza-regional-015-2020-cr-gob-reg-tacna",
+    "ordenanza-regional-016-2020-cr-gob-reg-tacna",
+    "ordenanza-regional-017-2021-cr-gob-reg-tacna",
+    "ordenanza-regional-023-2019-cr-gob-reg-tacna"
+   ],
+   "sha256": "bc833c9c3bd14c9dfece994f22bb37027cef2c6fdd2328b97b5a27dbd52162aa"
   }
  },
  "schema": 1
